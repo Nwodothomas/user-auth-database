@@ -1,4 +1,4 @@
-# User Authentication Service
+# User Authentication Services
 
 This project is aimed at creating a user authentication service using Flask, SQLAlchemy, and bcrypt. The service allows users to register, log in, log out, reset passwords, and view their profile.
 
